@@ -1,0 +1,92 @@
+ body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    background: url('https://wallpapercat.com/w/full/8/7/7/194290-3840x2160-desktop-4k-outer-space-wallpaper-photo.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.başlık {
+    text-align: center;
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.başlık h1 {
+    font-family: "Copperplate Gothic", serif;
+    font-size: 5em;
+    color: #fdfd6a;
+    margin: 0;
+    padding: 0;
+}
+
+.başlık h2 {
+    font-family: "Copperplate Gothic", serif;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    margin-bottom: -20px;
+}
+
+.başlık p {
+    font-family: 'Cambria', serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+
+.içerik {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.main h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fdfd6a;
+    font-size: 1.8em;
+}
+
+.main span {
+    color: #fdfd6a;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 40px;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+ul li strong {
+    font-family: 'Cambria', serif;
+    font-size: 1.2em;
+}
+
+a {
+    color: #e2e2e2;
+    text-decoration: underline;
+    text-decoration-color: rgb(94, 94, 94);
+}
+
+.maçlar a {
+    color: rgb(255, 255, 255);
+}
+
+.maçlar ul li {
+    margin-bottom: 5px;
+}
+
+.son {
+    text-align: center;
+    padding: 7px;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 0.9em;
+    margin-top: 0;
+}
